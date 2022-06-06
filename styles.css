@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color: #C7CBD1;
+    font-size: 96.5px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  body {
+    color: #9BA0AA;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  #mainText {
+      margin-top: auto;
+    text-align: justify;
+    float: inline-end;
+  width: 50%;
+    margin-right: auto;
+    line-height: 1.5;
+    border: 1px solid yellow;
+  }
+
+  #repPhoto {
+      float: left;
+    display: left;
+    margin-left: 0px;
+    width: 25%;
+  }
+  #mainText, #repPhoto{
+    display: inline-block;
+    
+  }
+
+  #pleaseChoose,
+  #infoAboutMe {
+    display: inline-block;
+  }
+
+  #pleaseChoose {
+    float: right;
+    margin-right: 200px;
+    margin-top: 25px;
+    margin-bottom: 100px;
+  }
+
+  #infoAboutMe {
+    margin: 25px 0px 50px 200px;
+  }
+
+  #about {
+    margin-bottom: 20px;
+  }
+
+  #options {
+    margin-top: -20px;
+    margin-left: 20px;
+  }
+
+  html {
+    background-color: #41485A;
+  }
+
+  footer {
+    font-size: 14px;
+  }
